@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/malkhanfitness/static/css/main.dc72a3ee.css",
+    "main.js": "/malkhanfitness/static/js/main.f066200e.js",
+    "static/media/dumbelltwo.jpg": "/malkhanfitness/static/media/dumbelltwo.b55ebc104f119eb2a3b1.jpg",
+    "static/media/legpress.jpg": "/malkhanfitness/static/media/legpress.307c71848db83e46108d.jpg",
+    "static/media/mainentrytwo.jpg": "/malkhanfitness/static/media/mainentrytwo.2eaac72f3969fa1898cf.jpg",
+    "static/media/mainentry.jpg": "/malkhanfitness/static/media/mainentry.ba6b02fee2023fa3d86c.jpg",
+    "static/media/weight.jpg": "/malkhanfitness/static/media/weight.6399d8eda4f35b19d1c2.jpg",
+    "static/media/entrance.jpg": "/malkhanfitness/static/media/entrance.6c53268a3d63e76f0422.jpg",
+    "static/media/dumbells.jpg": "/malkhanfitness/static/media/dumbells.e7074f0d24a43b7155a8.jpg",
+    "static/media/cardio.jpg": "/malkhanfitness/static/media/cardio.be6e6b44d04f4a5be3fd.jpg",
+    "static/media/enrancetwo.jpg": "/malkhanfitness/static/media/enrancetwo.5db51c437562df66df39.jpg",
+    "static/media/map-image.png": "/malkhanfitness/static/media/map-image.3cd6dd9808474f6ed762.png",
+    "static/media/logo.svg": "/malkhanfitness/static/media/logo.92da7ae6ea8578b791dd236249ef3434.svg",
+    "static/media/logo.jpg": "/malkhanfitness/static/media/logo.518b5ce8fcbb5fdceffb.jpg",
+    "static/media/1.jpg": "/malkhanfitness/static/media/1.2fb14c857750c2a3bf5f.jpg",
+    "static/media/prashant.png": "/malkhanfitness/static/media/prashant.3dcb436af3d0a9129e7e.png",
+    "static/media/wageesha.png": "/malkhanfitness/static/media/wageesha.1d6837e4422bad936ed9.png",
+    "static/media/vaibhav.png": "/malkhanfitness/static/media/vaibhav.ac2de4b503a804e7a75a.png",
+    "index.html": "/malkhanfitness/index.html",
+    "main.dc72a3ee.css.map": "/malkhanfitness/static/css/main.dc72a3ee.css.map",
+    "main.f066200e.js.map": "/malkhanfitness/static/js/main.f066200e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc72a3ee.css",
+    "static/js/main.f066200e.js"
+  ]
+}
